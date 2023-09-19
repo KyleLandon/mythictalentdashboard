@@ -1,0 +1,4 @@
+
+
+If Text matches another then format it X
+=ISNUMBER(MATCH(A1, Priority Import!A:A, 0))
